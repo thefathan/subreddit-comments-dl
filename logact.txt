@@ -1,0 +1,7 @@
+15 Januari 2022
+- membuat sendiri scraper reddit
+- praw sempat tidak dideteksi sebagai module, diganti ke versi 7.1.0
+- ada referensi + bisa membuat data set langsung di https://github.com/pistocop/subreddit-comments-dl
+
+2 Februari 2022
+- ngeclone referensi ke lokal
